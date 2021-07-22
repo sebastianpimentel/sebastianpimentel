@@ -3,15 +3,15 @@
 
 - 🌱 I’m currently learning **frontend development**
 
-- 👨‍💻 All of my projects are available at [En mi perfil de github](En mi perfil de github)
+- 👨‍💻 All of my projects are available at **En mi perfil de github**
 
-- 📝 I regularly read articles on [Seguridad informatica](Seguridad informatica)
+- 📝 I regularly read articles on **Seguridad informatica**
 
 - 🔭 I am currently working at siesa **cargo desarrollador staff**
 
 - 📫 How to reach me **sebaspimen011@gmail.com**
 
-- 📄 I am [Autodidacta dispuesto aprender todo lo que pueda siempre con la mejor actitud](Autodidacta dispuesto aprender todo lo que pueda siempre con la mejor actitud)
+- 📄 I am **Autodidacta dispuesto aprender todo lo que pueda siempre con la mejor actitud**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
